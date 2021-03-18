@@ -1,0 +1,22 @@
+{
+  "name": "duedatecalculator",
+  "version": "1.0.0",
+  "description": "DueDateCalculator",
+  "main": "dueDateCalculator.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "due",
+    "date",
+    "calculator"
+  ],
+  "author": "Adam Csete",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^8.3.2"
+  }
+}
